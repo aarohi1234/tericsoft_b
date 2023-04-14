@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Nidhi",
+      "email": "nidhi12@gmail.com",
+      "phone": "8989908856",
+      "dob": "2023-08-10",
+      "gender": "female",
+      "hobbies": ["Travelling", "Playing"]
+    },
+    {
+      "id": 1,
+      "name": "aarohi",
+      "email": "aarohi2@gmail.com",
+      "phone": "9989908856",
+      "dob": "2023-08-10",
+      "gender": "male",
+      "hobbies": ["Travelling", "Playing"]
+    }
+  ]
+}
